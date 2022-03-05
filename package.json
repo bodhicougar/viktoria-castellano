@@ -1,7 +1,7 @@
 {
   "name": "anna-victoria-castellano",
   "description": "Viktoria Castellano Schablone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -26,6 +26,7 @@
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.11",
     "marked": "^4.0.12",
+    "mime-db": "^1.52.0",
     "moment": "^2.23.0",
     "moment-strftime": "^0.5.0",
     "node-sass": "^7.0.1",
