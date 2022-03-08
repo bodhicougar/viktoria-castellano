@@ -1,6 +1,7 @@
 ---
 title: '"Hase Hase" - COMING SOON '
-subtitle: ""
+subtitle: "Written by Coline Serreau, directed by Luka Oberhammer for
+  Theatergruppe Oberhofen "
 date: 2022-03-07T23:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
