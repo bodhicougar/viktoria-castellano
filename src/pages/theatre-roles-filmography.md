@@ -11,7 +11,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-### **"Mein Freund Harvey" - Boulevard**
+### **"Mein Freund Harvey" - Boulevard, written by Mary Chase** 
 
 \
 **directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
@@ -87,8 +87,6 @@ https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549
 2020 
 
 Viktoria appeared on screen as a press reporter
-
-
 
 ### **Maria.Königin – Projekttheater Hall in Tirol,** \
 
