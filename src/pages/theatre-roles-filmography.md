@@ -11,13 +11,15 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-### **"Mein Freund Harvey" - Innsbrucker Ritterspiele,**\
-\\
-**directed by Luka Oberhammer, on stage in January 2022**
+### **"Mein Freund Harvey" - Boulevard**
 
-Boulevard 
+\
+**directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
 
-Viktoria as nurse "Kelly" in a mental hospital. 
+January/February 2022 
+
+Viktoria as nurse "Kelly" in a mental hospital. This funny and dynamic play was a great success on Broadway in the 40's.\
+Re-staged  for the "Innsbrucker Ritterspiele" and directed by Luka Oberhammer. 
 
 ### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
 
@@ -80,14 +82,11 @@ Written by Sarah Milena Rendel
 
 https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549
 
-
-
 ### "Die Lederhosenaffäre" - ORF Movie \
+
 2020 
 
 Viktoria appeared on screen as a press reporter
-
-
 
 
 
