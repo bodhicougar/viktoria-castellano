@@ -9,17 +9,17 @@ content_img_path: ""
 excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: Wia's kimmt
-  description: A cautionary tale about life in New York
+  title: Hase Hase
+  description: Coming soon
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: Few Things I Wish I Knew Before I Moved to New York
+      value: Coming soon
       keyName: property
     - name: og:description
-      value: A cautionary tale about life in New York
+      value: Theatergruppe Oberhofen
       keyName: property
     - name: og:image
       value: images/5.jpg
@@ -28,12 +28,12 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Few Things I Wish I Knew Before I Moved to New York
+      value: Coming soon
     - name: twitter:description
-      value: A cautionary tale about life in New York
+      value: Coming soon
     - name: twitter:image
       value: images/5.jpg
       relativeUrl: true
 template: post
 ---
-Viktoria as "Lucie" in "Hase Hase" written by Coline Serreau and directed by Luka Oberhammer for the "Theatergruppe Oberhofen"
+Viktoria as "Lucie" in "Hase Hase" written by Coline Serreau and directed by Luka Oberhammer for the "Theatergruppe Oberhofen".
