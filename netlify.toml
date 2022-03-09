@@ -1,3 +1,7 @@
 [build]
+
+command = "npm run build"
 publish = "public"
-command = "./stackbit-build.sh"
+
+[build.environment]
+NODE_VERSION = "14"
