@@ -16,7 +16,7 @@ seo:
       value: article
       keyName: property
     - name: og:title
-      value: Few Things I Wish I Knew Before I Moved to New York
+      value: Coming soon
       keyName: property
     - name: og:description
       value: Theatergruppe Oberhofen
@@ -28,9 +28,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Few Things I Wish I Knew Before I Moved to New York
+      value: Coming soon
     - name: twitter:description
-      value: A cautionary tale about life in New York
+      value: Coming soon
     - name: twitter:image
       value: images/5.jpg
       relativeUrl: true
