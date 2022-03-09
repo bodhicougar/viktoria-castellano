@@ -124,7 +124,7 @@ models:
         label: Domain
         description: >-
           The domain of your site, including the protocol, e.g.
-          https://mysite.com/
+          https://www.viktoriacastellano.art/
       - type: image
         name: favicon
         label: Favicon
