@@ -36,4 +36,4 @@ seo:
       relativeUrl: true
 template: post
 ---
-Viktoria as "Lucie" in "Hase Hase" written by Coline Serreau and directed by Luka Oberhammer for the "Theatergruppe Oberhofen"
+Viktoria as "Lucie" in "Hase Hase" written by Coline Serreau and directed by Luka Oberhammer for the "Theatergruppe Oberhofen".
