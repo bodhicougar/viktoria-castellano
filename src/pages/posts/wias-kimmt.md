@@ -9,8 +9,8 @@ content_img_path: ""
 excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: Wia's kimmt
-  description: A cautionary tale about life in New York
+  title: Hase Hase
+  description: Coming soon
   extra:
     - name: og:type
       value: article
@@ -19,7 +19,7 @@ seo:
       value: Few Things I Wish I Knew Before I Moved to New York
       keyName: property
     - name: og:description
-      value: A cautionary tale about life in New York
+      value: Theatergruppe Oberhofen
       keyName: property
     - name: og:image
       value: images/5.jpg
