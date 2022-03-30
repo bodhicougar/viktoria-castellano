@@ -5,8 +5,7 @@ date: 2021-10-20T22:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
-excerpt: " Viktoria is currently working on an actress´s degree at the
-  “Paritätische Kommission” in Vienna, which she is expected to get in 2022."
+excerpt: ""
 seo:
   type: stackbit_page_meta
   title: Maria Stuart
