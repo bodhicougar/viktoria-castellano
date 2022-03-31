@@ -1,12 +1,11 @@
 ---
-title: "Actros Degree in Vienna "
+title: "Acting Degree in Vienna "
 subtitle: By the commission of performing Arts in Vienna.
-date: 2021-10-20T22:00:00.000Z
-thumb_img_path: /images/_adr5914.jpg
+date: 2021-10-28T22:00:00.000Z
+thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
-excerpt: " Viktoria is currently working on an actress´s degree at the
-  “Paritätische Kommission” in Vienna, which she is expected to get in 2022."
+excerpt: ""
 seo:
   type: stackbit_page_meta
   title: Maria Stuart
@@ -40,24 +39,20 @@ template: post
 ---
 ![]()
 
- Viktoria is currently working on an actress´s degree at the “Paritätische Kommission” in Vienna, which she is expected to get in 2022.
+ Viktoria, on the 29th of March 2022, successfully passed the second exam of three by the commission of performing arts in Vienna.
 
-The roles she will present this atumn are: 
+The roles she presented were: 
 
 **1. Zoe Mill from "Henceforward..." (Alan Ayckbourn, 1987)** \
 Zoe Mill is an actress which has to work as a Hostess because nothing really seems to function well in her life. While she is on her way to a client's house, Mr. Jerome Watkins, she get's attacked by a group of girls. She arrives totally shocked and want's to find some safety but Mr. Watkins kind of ignores her which makes her particularly nervous. 
 
-
-
 **2. Celestina from "Don Juan" (Max Frisch, 1953)**  \
 Celestina is the owner of a Cathouse in Sevilla. She is pretty disappointed in one of her best prostitute's because she fell in love with Don Juan. She kicks her out and reveals to her how she personally feels about her male client's. 
-
-
 
 **3. Maria Stuart (Friedrich Schiller, 1800)** \
 Drama based on a true story. Viktoria presents a monologue from Mary Stuart's inprisonment. 
 
-
-
 **4. Mirandolina from "La Locandiera" (Carlo Goldoni, 1752)** \
 Mirandolina, a landlady who want's to break a knight's heart.
+
+The final exam is expected to take place in 2023.
