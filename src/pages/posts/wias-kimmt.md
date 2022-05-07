@@ -50,7 +50,7 @@ This insane play swings like life itself between being wonderfully silly and pro
 
 Is humanity woth being saved? 
 
-
+## **TICKETS: http://theatergruppe-oberhofen.at/**
 
 Cast: 
 
@@ -64,8 +64,6 @@ Dieter Seelos as Bébert \
 Tamara Baumann as Marie \
 Romain Hoffmann as Madame Duperri \
 Alexander Hausberger as the Police officer 
-
-
 
 Directed by Luka Oberhammer 
 
@@ -82,8 +80,6 @@ Stage Construction: Romain Hoffman, Lioban Possnig, Andrea and Andre Breit, Alex
 
 Graphic Design: Tamara Baumann \
 Catering: Helene Steinhauser & Brunhilde Schatz 
-
-
 
 All rights reserved to \
 HENSCHEL Schauspiel \
