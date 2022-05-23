@@ -75,6 +75,15 @@
         "icon_class": "dev"
       },
       {
+        "url": "/videos",
+        "style": "link",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action",
+        "label": "Videos",
+        "icon_class": "youtube"
+      },
+      {
         "type": "action",
         "label": "Contact",
         "url": "/contact",
@@ -89,15 +98,6 @@
         "new_window": false,
         "no_follow": false,
         "type": "action"
-      },
-      {
-        "url": "/videos",
-        "style": "link",
-        "new_window": false,
-        "no_follow": false,
-        "type": "action",
-        "label": "Videos",
-        "icon_class": "youtube"
       }
     ],
     "has_nav": true
