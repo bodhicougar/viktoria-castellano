@@ -55,4 +55,4 @@ Drama based on a true story. Viktoria presents a monologue from Mary Stuart's in
 **4. Mirandolina from "La Locandiera" (Carlo Goldoni, 1752)** \
 Mirandolina, a landlady who want's to break a knight's heart.
 
-The final exam is expected to take place in 2023.
+The final exam is expected to take place in September 2023.
