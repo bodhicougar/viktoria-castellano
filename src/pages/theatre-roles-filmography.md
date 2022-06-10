@@ -1,6 +1,6 @@
 ---
 title: Theatre Roles & Filmography
-img_path: /images/bg_ADR5848.jpg
+img_path: /images/dsc09283.jpg
 seo:
   title: ""
   description: ""
@@ -11,10 +11,59 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-### **"Mein Freund Harvey" - Boulevard, written by Mary Chase**
+
+
+* ## **"Lapin LAPIN" (Hase HASE) written by Coline Serreau, directed by Luka Oberhammer, Theatergruppe Oberhofen** 
+
+"Laughter must be saved"
+
+This play is about the family Hase, who lives in precarious circumstances. No money, no work but at least a mother who keeps it all together by having a big mouth and an even bigger heart. 
+
+The youngest, who is actually an alien, is sent to earth to save humanity, the eldest is almost a doctor and the three other siblings already left the house. 
+
+Then, out of nowhere, everything that could possibly go wrong goes wrong. The three siblings have to come back home, in a one and a half room apartment for the whole family. The family is now confronted with failed weddings, the state police who is searching for the sons, and a lonely neighbor, who demands company and attention. 
+
+It is understandable that a mother can lose her nerves in such a situation, but she never loses her humor and certainly not her values. 
+
+This insane play swings like life itself between being wonderfully silly and profound. 
+
+Is it worth to save mankind?
+
+Cast: 
+
+Andrea Breit as Maman \
+Manfred Brötz as Papa \
+Laura as Hase\
+Viktoria Castellano as Lucie \
+Marcus Freiler as Gérard \
+Philipp Walser as Jeannot \
+Dieter Seelos as Bébert \
+Tamara Baumann as Marie \
+Romain Hoffmann as Madame Duperri \
+Alexander Hausberger as the Police officer 
+
+Directed by Luka Oberhammer 
 
 \
-**directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
+Assistant director: Gabi Walser \
+Stage design: Johannes Schlack \
+Costume design: Brunhilde Schatz \
+Make up: Lena Tonezzer \
+Music by Dieter Seelos\
+Lighting: Lioban Possnig & Christoph Stecher \
+Sound: Simon Schnabl 
+
+Stage Construction: Romain Hoffman, Lioban Possnig, Andrea and Andre Breit, Alexander Hausberger, Lena Tonezzer, Seppi Schatz 
+
+Graphic Design: Tamara Baumann \
+Catering: Helene Steinhauser & Brunhilde Schatz 
+
+All rights reserved to \
+HENSCHEL Schauspiel \
+Theaterverlag Berlin GmbH
+
+* ### **"Mein Freund Harvey" - Boulevard, written by Mary Chase**\
+  **directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
 
 January/February 2022 
 
@@ -23,9 +72,7 @@ Re-staged  for the "Innsbrucker Ritterspiele" and directed by Luka Oberhammer.
 
 https://www.meinbezirk.at/innsbruck/c-lokales/verrueckt-oder-einfach-nur-clever-mein-freund-harvey_a5119240
 
-
-
-### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
+* ### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
 
 #### **directed by Kurt Benkovic**
 
@@ -86,13 +133,13 @@ Written by Sarah Milena Rendel
 
 https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549
 
-### "Die Lederhosenaffäre" - ORF Movie \
+* ### "Die Lederhosenaffäre" - ORF Movie \
 
 2020 
 
 Viktoria appeared on screen as a press reporter
 
-### **Maria.Königin – Projekttheater Hall in Tirol,** \
+* ### **Maria.Königin – Projekttheater Hall in Tirol,** \
 
 **directed by Kurt Benkovic** 
 
@@ -171,7 +218,7 @@ Written by Lina Hofstädter
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-### „**Wias kimm’t“ – Bogentheater Innsbruck,** \
+* ### „**Wias kimm’t“ – Bogentheater Innsbruck,** \
 
 **directed by Katharina Schwaiger** 
 
@@ -206,7 +253,7 @@ Written by
 
 *<https://www.bogentheater.at/verein/team>*
 
-### „**Cyrano de Bergerac“ – Haller Burgsommer,** \
+* ### „**Cyrano de Bergerac“ – Haller Burgsommer,** \
 
 **directed by Elmar Drexel**
 
@@ -214,7 +261,7 @@ Written by
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-### **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**
+* ### **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**
 
 ### **by Lisa Wöss**
 
@@ -252,7 +299,7 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain]()
 
-### **Music video „Evil man“ from Giant Anteater “**
+* ### **Music video „Evil man“ from Giant Anteater “**
 
 February 2017
 
@@ -260,7 +307,7 @@ Viktoria starred as the wife of an alcoholic
 
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
-### „**Frau Suitner“ – Haller Burgsommer,** \
+* ### „**Frau Suitner“ – Haller Burgsommer,** \
 
 **directed by Elmar Drexel, written by Andre Schönherr** 
 
