@@ -11,9 +11,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-
-
-* ## **"Lapin LAPIN" (Hase HASE) written by Coline Serreau, directed by Luka Oberhammer, Theatergruppe Oberhofen** 
+* ## **"Lapin LAPIN" (Hase HASE) written by Coline Serreau, directed by Luka Oberhammer, Theatergruppe Oberhofen**
 
 "Laughter must be saved"
 
@@ -63,6 +61,7 @@ HENSCHEL Schauspiel \
 Theaterverlag Berlin GmbH
 
 * ### **"Mein Freund Harvey" - Boulevard, written by Mary Chase**\
+
   **directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
 
 January/February 2022 
@@ -216,7 +215,7 @@ Written by Lina Hofstädter
 
 *<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
 
-![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
+![](/images/dsc08653.jpg)
 
 * ### „**Wias kimm’t“ – Bogentheater Innsbruck,** \
 
