@@ -38,11 +38,11 @@ template: post
 ---
 "Laughter must be saved"
 
-This play is about the family Hase, who lives in precarious circumstances. No money, no work but at least with a mother who keeps it all together by having a big mouth and an even bigger heart. 
+This play is about the family Hase, who lives in precarious circumstances. No money, no work but at least a mother who keeps it all together by having a big mouth and an even bigger heart. 
 
-The youngest, who is actually an alien, is sent to earth to save humanity, the eldest is almost a doctor and the three other siblings already have left the house. 
+The youngest, who is actually an alien, is sent to earth to save humanity, the eldest is almost a doctor and the three other siblings already left the house. 
 
-Then, out of nowhere, everything that could possibly go wrong goes wrong. The three siblings have to come back home, in a one and a half room apartment for the whole family. The family is now confronted with failed weddings, the state police who are searching for the sons, and a lonely neighbor, who demands company and attention. 
+Then, out of nowhere, everything that could possibly go wrong goes wrong. The three siblings have to come back home, in a one and a half room apartment for the whole family. The family is now confronted with failed weddings, the state police who is searching for the sons, and a lonely neighbor, who demands company and attention. 
 
 It is understandable that a mother can lose her nerves in such a situation, but she never loses her humor and certainly not her values. 
 
