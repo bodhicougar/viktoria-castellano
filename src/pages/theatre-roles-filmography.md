@@ -60,6 +60,12 @@ All rights reserved to \
 HENSCHEL Schauspiel \
 Theaterverlag Berlin GmbH
 
+https://www.meinbezirk.at/telfs/c-lokales/wasserstoff-21-und-ein-maman-manifest-im-reasnhof_a5394640
+
+https://tvthek.orf.at/profile/Tirol-heute/70023/Tirol-heute/14139517/Hase-Hase-in-Oberhofen/15184819
+
+
+
 * ### **"Mein Freund Harvey" - Boulevard, written by Mary Chase**\
 
   **directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
