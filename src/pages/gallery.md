@@ -17,6 +17,10 @@ template: page
 
 <iframe src="https://albumizr.com/a/QrEi" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
 
+**Lucie in "Lapin LAPIN"**
+
+<iframe src="https://albumizr.com/a/dlRq" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
+
 **Nurse Kelly in Harvey**
 
 <iframe src="https://albumizr.com/a/pp2B" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
