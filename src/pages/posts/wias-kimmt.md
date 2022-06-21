@@ -2,7 +2,7 @@
 title: '"Hase Hase" - on stage in June and July 2022'
 subtitle: "Written by Coline Serreau, directed by Luka Oberhammer for
   Theatergruppe Oberhofen "
-date: 2022-03-07T23:00:00.000Z
+date: 2022-06-20T22:00:00.000Z
 thumb_img_path: /images/immagine.jpg
 thumb_img_alt: Viktoria in action
 content_img_path: ""
