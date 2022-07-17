@@ -1,6 +1,7 @@
 ---
 title: Photo Gallery
 subtitle: ""
+img_path: /images/_adr5866.jpg
 seo:
   title: "Viktoria Castellano - Actress: Gallery"
   description: >-
