@@ -64,8 +64,6 @@ https://www.meinbezirk.at/telfs/c-lokales/wasserstoff-21-und-ein-maman-manifest-
 
 https://tvthek.orf.at/profile/Tirol-heute/70023/Tirol-heute/14139517/Hase-Hase-in-Oberhofen/15184819
 
-
-
 * ### **"Mein Freund Harvey" - Boulevard, written by Mary Chase**\
 
   **directed by Luka Oberhammer, Innsbrucker Ritterspiele** 
@@ -76,6 +74,9 @@ Viktoria as nurse "Kelly" in a mental hospital. This funny and dynamic play was 
 Re-staged  for the "Innsbrucker Ritterspiele" and directed by Luka Oberhammer. 
 
 https://www.meinbezirk.at/innsbruck/c-lokales/verrueckt-oder-einfach-nur-clever-mein-freund-harvey_a5119240
+
+All rights reserved to \
+Felix Blocherben Verlag Berlin 
 
 * ### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
 
