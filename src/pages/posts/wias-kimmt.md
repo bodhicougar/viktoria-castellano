@@ -3,7 +3,7 @@ title: '"A comedy of Tenors" - On Stage in January, February & March '
 subtitle: "Written by Ken Ludwig, directed by Manfred Schild  for Innsbrucker
   Ritterspiele, Märchen & Boulevardbühne "
 date: 2022-06-20T22:00:00.000Z
-thumb_img_path: ""
+thumb_img_path: /images/header_drei_tenoere.jpg
 thumb_img_alt: Viktoria in action
 content_img_path: ""
 excerpt: ""
