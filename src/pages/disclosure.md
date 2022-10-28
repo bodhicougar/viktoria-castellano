@@ -45,4 +45,6 @@ template: page
 ---
 **Content Manager:** Viktoria Castellano 
 
-Copyright: Viktoria Castellano, Lisa Wöss, Adrian Salchner, Bernhard Stolz, Iris & Alois Krug
+Copyright: Viktoria Castellano, Lisa Wöss, Adrian Salchner, Bernhard Stolz, Iris & Alois Krug, 
+
+A﻿ntonio De Luca
