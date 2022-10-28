@@ -1,6 +1,6 @@
 ---
 title: Theatre Roles & Filmography
-img_path: /images/dsc09283.jpg
+img_path: /images/_adr5864-2-.jpg
 seo:
   title: ""
   description: ""
