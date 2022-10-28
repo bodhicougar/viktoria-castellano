@@ -1,6 +1,6 @@
 ---
 title: Thank you
-img_path: /images/DSC0E0999.jpg
+img_path: /images/_adr5864-2-.jpg
 seo:
   title: "Viktoria Castellano - Actress: Thank you."
   description: >-
