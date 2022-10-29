@@ -40,7 +40,7 @@
     "tagline": "Actress",
     "logo_img": "/images/Krönchen.png",
     "has_social": true,
-    "background_img": "",
+    "background_img": "/images/psx_20221022_035830-2-1-.jpg",
     "title": "Viktoria Castellano",
     "logo_img_alt": "Viktoria's Logo",
     "type": "header",
@@ -108,5 +108,5 @@
     "content": "© Anna-Viktoria Castellano 2022. All rights reserved. Created & maintained by BlackBoxMediaDesign."
   },
   "domain": "https://www.viktoriacastellano.art/",
-  "favicon": "/images/Krönchen.png"
+  "favicon": ""
 }
