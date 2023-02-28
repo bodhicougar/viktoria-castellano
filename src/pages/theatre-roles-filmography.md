@@ -11,6 +11,12 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+* ## **"﻿A comedy of Tenors", written by Ken Ludwig, directed by Manfred Schild** 
+
+  V﻿iktoria was on stage as the protagonist's daughter "Mimi Merelli"
+
+<!---->
+
 * ## **"Lapin LAPIN" (Hase HASE) written by Coline Serreau, directed by Luka Oberhammer, Theatergruppe Oberhofen**
 
 "Laughter must be saved"
