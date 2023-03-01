@@ -1,7 +1,7 @@
 ---
-title: '"Ich fühls nicht", Tiroler Landestheater '
+title: '"Ich fühls nicht", TIROLER LANDESTHEATER'
 subtitle: "Written by Liv Stömquist, directed by Susanne Schmelcher "
-date: 2022-06-20T22:00:00.000Z
+date: 2023-02-28T23:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
