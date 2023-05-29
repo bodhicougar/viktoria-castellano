@@ -1,7 +1,7 @@
 ---
 title: '"Ein Narrentanz" - Tiroler Volksschauspiele '
 subtitle: "Telfs, Tirol 2023 "
-date: 2023-02-28T23:00:00.000Z
+date: 2023-05-29T22:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
