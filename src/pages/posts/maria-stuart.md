@@ -1,15 +1,15 @@
 ---
-title: "Acting Degree in Vienna "
-subtitle: By the commission of performing Arts in Vienna.
-date: 2022-03-29T22:00:00.000Z
+title: "Performing Arts Degree in Vienna "
+subtitle: By the commission of performing Arts in Vienna
+date: 2023-05-28T22:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
 excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: Maria Stuart
-  description: My contribution to Shakespeare's Maria Stuart
+  title: ""
+  description: ""
   extra:
     - name: og:type
       value: article
@@ -39,7 +39,25 @@ template: post
 ---
 ![]()
 
- Viktoria, on the 29th of March 2022, successfully passed the second exam of three by the commission of performing arts in Vienna.
+**P﻿erforming Arts Degree in Vienna - Paritätische Prüfungskommission für Bühnenangehörige Wien** 
+
+Viktoria will attend her 3rd and last exam by the Performing Arts commission in Vienna in autumn 2023. The roles she will present are: 
+
+1﻿. Antigone - Sophocles
+
+2﻿. Nick Bottom in Midsummer Night's Dream - Shakespeare 
+
+3﻿. A lady in traffic in "Unschuld" - Dea Loher 
+
+4﻿. Michelle in "Debris" - Dennis Kelly 
+
+5﻿. Sonja in "Uncle Vanja" - Anton Chekhov 
+
+6﻿. Mariedl "Die Präsidentinnen" - Werner Schwab 
+
+
+
+**Viktoria, on the 29th of March 2022, successfully passed the second exam of three by the commission of performing arts in Vienna.**
 
 The roles she presented were: 
 
@@ -54,5 +72,3 @@ Drama based on a true story. Viktoria presents a monologue from Mary Stuart's in
 
 **4. Mirandolina from "La Locandiera" (Carlo Goldoni, 1752)** \
 Mirandolina, a landlady who want's to break a knight's heart.
-
-The final exam is expected to take place in September 2023.
