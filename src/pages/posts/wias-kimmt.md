@@ -1,15 +1,15 @@
 ---
-title: '"Ich fühls nicht", TIROLER LANDESTHEATER'
-subtitle: "Written by Liv Stömquist, directed by Susanne Schmelcher "
+title: '"Ein Narrentanz" - Tiroler Volksschauspiele '
+subtitle: "Telfs, Tirol 2023 "
 date: 2023-02-28T23:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
-excerpt: "Written by Liv Stömquist, directed by Susanne Schmelcher "
+excerpt: "Telfs, Tirol 2023 - written and directed by Thomas Gassner "
 seo:
   type: stackbit_page_meta
-  title: Hase Hase
-  description: Coming soon
+  title: ""
+  description: ""
   extra:
     - name: og:type
       value: article
@@ -35,4 +35,10 @@ seo:
       relativeUrl: true
 template: post
 ---
-O﻿n stage from 1st April 2023.
+Viktoria will be starring as a persecuted, jewish girl. 
+
+I﻿nfo & Ticktes available here: 
+
+
+
+https://www.volksschauspiele.at/programm/ein-narrentanz/
