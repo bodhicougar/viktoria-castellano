@@ -1,9 +1,9 @@
 ---
-title: "Viktoria Castellano - Actress: Theatre Roles"
+title: Theatre Roles
 subtitle: ""
 img_path: /images/_adr5864-2-.jpg
 seo:
-  title: ""
+  title: "Viktoria Castellano - Actress: Theatre Roles"
   description: Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
     Italian-German actress. From a very young age, Viktoria had a strong
     compassion for art.
