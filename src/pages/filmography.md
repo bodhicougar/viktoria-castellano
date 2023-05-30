@@ -2,7 +2,7 @@
 title: Filmography
 img_path: /images/_adr5864-2-.jpg
 seo:
-  title: ""
+  title: "Viktoria Castellano - Actress: Filmography"
   description: ""
   extra:
     - name: ""
