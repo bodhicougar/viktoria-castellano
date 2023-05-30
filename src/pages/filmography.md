@@ -3,7 +3,9 @@ title: Filmography
 img_path: /images/_adr5864-2-.jpg
 seo:
   title: "Viktoria Castellano - Actress: Filmography"
-  description: ""
+  description: Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+    Italian-German actress. From a very young age, Viktoria had a strong
+    compassion for art.
   extra:
     - name: ""
       value: ""
