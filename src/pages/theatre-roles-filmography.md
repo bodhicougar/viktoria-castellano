@@ -1,5 +1,5 @@
 ---
-title: Theatre Roles & Filmography
+title: Theatre Roles
 img_path: /images/_adr5864-2-.jpg
 seo:
   title: ""
