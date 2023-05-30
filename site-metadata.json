@@ -59,7 +59,7 @@
       },
       {
         "label": "Theatre Roles",
-        "url": "/theatre-roles-filmography",
+        "url": "/theatre-roles",
         "style": "link",
         "icon_class": "dev",
         "new_window": false,
@@ -67,7 +67,7 @@
         "type": "action"
       },
       {
-        "url": "#",
+        "url": "/filmography",
         "style": "link",
         "new_window": false,
         "no_follow": false,
