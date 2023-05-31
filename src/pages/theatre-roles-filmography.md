@@ -99,7 +99,7 @@ Theaterverlag Berlin GmbH
 
 *https://tvthek.orf.at/profile/Tirol-heute/70023/Tirol-heute/14139517/Hase-Hase-in-Oberhofen/15184819*
 
-*\-﻿---------------------------------------------------------------------------------------------------*
+*\-﻿--------------------------------------------------------------------------*
 
 **"Mein Freund Harvey"** \
 **Boulevard, written by Mary Chase**\
@@ -115,7 +115,7 @@ Re-staged  for the "Innsbrucker Ritterspiele" and directed by Luka Oberhammer.
 All rights reserved to \
 Felix Blocherben Verlag Berlin 
 
-\-﻿-------------------------------------------------------------------------------------------------
+\-﻿----------------------------------------------------------------------------
 
 **ProVideo News.TV** \
  **Projekttheater Hall in Tirol,** \
@@ -176,11 +176,11 @@ Written by Sarah Milena Rendel
 
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
 
-*https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549*
+*<https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549>*
 
-\-﻿---------------------------------------------------------------------------------------------------
+\-﻿----------------------------------------------------------------------------
 
-**Maria.Königin** \
+**Maria. Königin** \
 **Projekttheater Hall in Tirol,** \
 **directed by Kurt Benkovic** 
 
@@ -257,7 +257,7 @@ Written by Lina Hofstädter
 
 *<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
 
-\-﻿---------------------------------------------------------------------------------------------------
+\-﻿----------------------------------------------------------------------------
 
 „**Wias kimm’t“** \
 **Bogentheater Innsbruck,** \
@@ -288,13 +288,11 @@ Directed by\
 Written by 
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
-![Contribution to Wia's kimmt]()
-
 *<https://www.bogentheater.at/archiv/138/querkopfe>*
 
 *<https://www.bogentheater.at/verein/team>*
 
-\-﻿-------------------------------------------------------------------------------------------------
+\-﻿----------------------------------------------------------------------------
 
 „**Cyrano de Bergerac"**\
 **Haller Burgsommer**  \
@@ -304,7 +302,9 @@ Written by
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-\-﻿--------------------------------------------------------------------------------------------------**Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**\
+\-﻿----------------------------------------------------------------------------
+
+**Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**\
 **by Lisa Wöss**
 
 **October 2017**
@@ -317,7 +317,7 @@ Viktoria staged the pain and the birth of art
 
 PERFORMANCE TEXT (OPENING TEXT) 
 
-Pictures, consisting of lines, dots, forms which are sums of points. Of wound points. Of pain points. 
+Pictures, consisting of lines, dots, and forms which are sums of points. Of wound points. Of pain points.
 
 Art is born in pain. Birth is pain. 
 
@@ -339,9 +339,8 @@ Pain is a feeling, feelings are the only things that are real, for sure. Surreal
 
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
 
-![Contribution to Allegory of pain]()
 
-\-﻿---------------------------------------------------------------------------------------------------
+\-﻿----------------------------------------------------------------------------
 
 „**Frau Suitner“** \
 **Haller Burgsommer,**\
