@@ -29,8 +29,7 @@ V﻿iktoria was on stage as the camerawoman
 
 *https://www.theaterkompass.de/beitraege/oesterreichischen-erstauffuehrung-ich-fuehls-nicht-nach-dem-comic-von-liv-stroemquist-tiroler-landestheater-innsbruck-58069*
 
-\-﻿-------------------------------------------------------------------------------------------------\
--﻿-------------------------------------------------------------------------------------------------
+\-﻿--------------------------------------------------------------------------------------------------------------
 
 **"A Comedy of Tenors"**\
 **written by Ken Ludwig** \
@@ -61,7 +60,7 @@ It is understandable that a mother can lose her nerves in such a situation, but 
 
 This insane play swings like life itself between being wonderfully silly and profound. 
 
-Is it worth to save mankind?
+Is it worth saving mankind?
 
 Cast: 
 
