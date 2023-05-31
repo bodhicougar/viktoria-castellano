@@ -179,16 +179,6 @@ Written by Sarah Milena Rendel
 
 *https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549*
 
-*\-﻿-------------------------------------------------------------------------------------------------------------*
-
-**"Die Lederhosenaffäre"** \
-**ORF Movie**\
-**d﻿irected by Markus Engel** 
-
-**2020**
-
-Viktoria appeared on screen as a press reporter
-
 \-﻿---------------------------------------------------------------------------------------------------
 
 **Maria.Königin** \
@@ -353,17 +343,6 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 ![Contribution to Allegory of pain]()
 
 \-﻿---------------------------------------------------------------------------------------------------
-
-**Music video „Evil man“** \
-**Giant Anteater** 
-
-**February 2017**
-
-Viktoria starred as the wife of an alcoholic
-
-*<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
-
-\-﻿-------------------------------------------------------------------------------------------------
 
 „**Frau Suitner“** \
 **Haller Burgsommer,**\
