@@ -29,7 +29,7 @@ V﻿iktoria was on stage as the camerawoman
 
 *https://www.theaterkompass.de/beitraege/oesterreichischen-erstauffuehrung-ich-fuehls-nicht-nach-dem-comic-von-liv-stroemquist-tiroler-landestheater-innsbruck-58069*
 
-\-﻿--------------------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------------------
 
 **"A Comedy of Tenors"**\
 **written by Ken Ludwig** \
@@ -52,9 +52,9 @@ V﻿iktoria was on stage as the protagonist's daughter "Mimi Merelli"
 
 This play is about the family Hase, who lives in precarious circumstances. No money, no work but at least a mother who keeps it all together by having a big mouth and an even bigger heart. 
 
-The youngest, who is actually an alien, is sent to earth to save humanity, the eldest is almost a doctor and the three other siblings already left the house. 
+The youngest, who is actually an alien, is sent to Earth to save humanity, the eldest is almost a doctor and the three other siblings already left the house.
 
-Then, out of nowhere, everything that could possibly go wrong goes wrong. The three siblings have to come back home, in a one and a half room apartment for the whole family. The family is now confronted with failed weddings, the state police who is searching for the sons, and a lonely neighbor, who demands company and attention. 
+Then, out of nowhere, everything that could possibly go wrong goes wrong. The three siblings have to come back home, in a one and a half room apartment for the whole family. The family is now confronted with failed weddings, the state police who are searching for the sons, and a lonely neighbor, who demands company and attention. 
 
 It is understandable that a mother can lose her nerves in such a situation, but she never loses her humor and certainly not her values. 
 
@@ -78,7 +78,7 @@ Alexander Hausberger as the Police officer
 Directed by Luka Oberhammer 
 
 \
-Assistant director: Gabi Walser \
+Assistant Director: Gabi Walser \
 Stage design: Johannes Schlack \
 Costume design: Brunhilde Schatz \
 Make up: Lena Tonezzer \
@@ -123,7 +123,7 @@ Felix Blocherben Verlag Berlin
 
 **October 2021** 
 
- The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic          on private news television in 2020. As a result, she wrote a comedy that illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spun in order to rise up the career ladder.
+ The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic on private news television in 2020. As a result, she wrote a comedy that illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spun in order to rise up the career ladder.
 
 **Cast:**
 
@@ -186,7 +186,7 @@ Written by Sarah Milena Rendel
 
 **October/November/December 2019**
 
- Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria  Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
+ Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria  Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
 
 The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
 
