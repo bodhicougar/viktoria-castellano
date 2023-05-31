@@ -23,15 +23,24 @@ template: page
 
 Viktoria appeared on screen as a press reporter
 
-\-﻿---------------------------------------------------------------------------------------------------
+\-﻿---------------------------------------------------------------------------------------------------\
+\
+**Wedding scene of Queen Mary Stuart** \
+**d﻿irechted by Kurt Benkovic** 
 
-**Music video „Evil man“** \
-**Giant Anteater** 
+**August 2019**
 
-**February 2017**
+Viktoria starred as Mary Queen of Scots 
 
-Viktoria starred as the wife of an alcoholic
-
-*<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
+https://www.youtube.com/watch?v=uWMJhbl3TyM&t=2s
 
 \-﻿-------------------------------------------------------------------------------------------------
+
+**Music Video "Evil Man"**\
+**G﻿iant Anteater** 
+
+**F﻿ebruary 2017**
+
+Viktoria starred as the wife of an alcoholic man 
+
+*https://www.youtube.com/watch?v=FSl0nf-p3XA*
