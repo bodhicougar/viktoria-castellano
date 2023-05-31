@@ -29,10 +29,8 @@ V﻿iktoria was on stage as the camerawoman
 
 *https://www.theaterkompass.de/beitraege/oesterreichischen-erstauffuehrung-ich-fuehls-nicht-nach-dem-comic-von-liv-stroemquist-tiroler-landestheater-innsbruck-58069*
 
-\-﻿-----------------------------------------------------------------------------------------------------------\
--﻿-----------------------------------------------------------------------------------------------------------
-
-
+\-﻿-------------------------------------------------------------------------------------------------\
+-﻿-------------------------------------------------------------------------------------------------
 
 **"A Comedy of Tenors"**\
 **written by Ken Ludwig** \
@@ -43,9 +41,7 @@ V﻿iktoria was on stage as the camerawoman
 \
 V﻿iktoria was on stage as the protagonist's daughter "Mimi Merelli"
 
-
-
-\-﻿-----------------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------------
 
 **"Lapin LAPIN" (Hase HASE)** \
 **written by Coline Serreau,** \
@@ -100,13 +96,11 @@ All rights reserved to \
 HENSCHEL Schauspiel \
 Theaterverlag Berlin GmbH
 
-
-
 *https://www.meinbezirk.at/telfs/c-lokales/wasserstoff-21-und-ein-maman-manifest-im-reasnhof_a5394640*
 
 *https://tvthek.orf.at/profile/Tirol-heute/70023/Tirol-heute/14139517/Hase-Hase-in-Oberhofen/15184819*
 
-*\-﻿-------------------------------------------------------------------------------------------------------------*
+*\-﻿---------------------------------------------------------------------------------------------------*
 
 **"Mein Freund Harvey"** \
 **Boulevard, written by Mary Chase**\
@@ -122,9 +116,7 @@ Re-staged  for the "Innsbrucker Ritterspiele" and directed by Luka Oberhammer.
 All rights reserved to \
 Felix Blocherben Verlag Berlin 
 
-
-
-\-﻿-----------------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------------
 
 **ProVideo News.TV** \
  **Projekttheater Hall in Tirol,** \
@@ -187,8 +179,6 @@ Written by Sarah Milena Rendel
 
 *https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549*
 
-
-
 *\-﻿-------------------------------------------------------------------------------------------------------------*
 
 **"Die Lederhosenaffäre"** \
@@ -199,9 +189,7 @@ Written by Sarah Milena Rendel
 
 Viktoria appeared on screen as a press reporter
 
-
-
-\-﻿-------------------------------------------------------------------------------------------------------------
+\-﻿---------------------------------------------------------------------------------------------------
 
 **Maria.Königin** \
 **Projekttheater Hall in Tirol,** \
@@ -280,9 +268,7 @@ Written by Lina Hofstädter
 
 *<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
 
-
-
-\-﻿-------------------------------------------------------------------------------------------------------------
+\-﻿---------------------------------------------------------------------------------------------------
 
 „**Wias kimm’t“** \
 **Bogentheater Innsbruck,** \
@@ -319,9 +305,7 @@ Written by
 
 *<https://www.bogentheater.at/verein/team>*
 
-
-
-\-﻿-----------------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------------
 
 „**Cyrano de Bergerac"**\
 **Haller Burgsommer**  \
@@ -331,9 +315,7 @@ Written by
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-
-
-\-﻿-----------------------------------------------------------------------------------------------------------**Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**\
+\-﻿--------------------------------------------------------------------------------------------------**Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**\
 **by Lisa Wöss**
 
 **October 2017**
@@ -370,7 +352,7 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain]()
 
-\-﻿-----------------------------------------------------------------------------------------------------------
+\-﻿---------------------------------------------------------------------------------------------------
 
 **Music video „Evil man“** \
 **Giant Anteater** 
@@ -381,7 +363,7 @@ Viktoria starred as the wife of an alcoholic
 
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
-\-﻿-----------------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------------
 
 „**Frau Suitner“** \
 **Haller Burgsommer,**\
