@@ -1,7 +1,7 @@
 ---
 title: Theatre Roles
 subtitle: ""
-img_path: /images/_adr5864-2-.jpg
+img_path: /images/1d0a6225retouched-1-resized.jpg
 seo:
   title: "Viktoria Castellano - Actress: Theatre Roles"
   description: Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
