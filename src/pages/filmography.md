@@ -1,6 +1,6 @@
 ---
 title: Filmography
-img_path: /images/_adr5864-2-.jpg
+img_path: /images/1d0a6216retouched-resized.jpg
 seo:
   title: "Viktoria Castellano - Actress: Filmography"
   description: Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
