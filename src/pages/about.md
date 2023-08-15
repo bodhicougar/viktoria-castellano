@@ -1,7 +1,7 @@
 ---
 title: "About me "
 subtitle: ""
-img_path: /images/img_9153.jpg
+img_path: /images/1d0a6229retouchedresized.jpg
 seo:
   type: stackbit_page_meta
   title: "Viktoria Castellano - Actress: About Me"
