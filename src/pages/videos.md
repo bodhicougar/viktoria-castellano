@@ -10,6 +10,11 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+**P﻿ersecuted, jewish waitress (2023)** \
+from min 04:00 - 04:25
+
+https://www.mundetv.at/beitrag/ein-narrentanz/?fbclid=IwAR0sNj7FKeVdKtlE7hV0x843_NiDUqgd8CinI4kr2imTipheUjgveXBnDW0
+
 **Scene in the interrogation room (2022)**\
 <https://showreel.castforward.de/single/e4e3337b23d5102857ead0368908451d34ebb2b0>
 
