@@ -1,7 +1,7 @@
 ---
 title: Videos
 subtitle: ""
-img_path: /images/psx_20221022_040107-1-1-.jpg
+img_path: /images/1d0a6225retouched-1-resized.jpg
 seo:
   title: "Viktoria Castellano - Actress: Videos"
   description: ""
