@@ -29,7 +29,7 @@ V﻿iktoria was on stage as the camerawoman
 
 *https://www.theaterkompass.de/beitraege/oesterreichischen-erstauffuehrung-ich-fuehls-nicht-nach-dem-comic-von-liv-stroemquist-tiroler-landestheater-innsbruck-58069*
 
-\-﻿-------------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------------
 
 **"A Comedy of Tenors"**\
 **written by Ken Ludwig** \
@@ -40,7 +40,7 @@ V﻿iktoria was on stage as the camerawoman
 \
 V﻿iktoria was on stage as the protagonist's daughter "Mimi Merelli"
 
-\-﻿-------------------------------------------------------------------------------------------------
+\-﻿-------------------------------------------------------------------------------------------
 
 **"Lapin LAPIN" (Hase HASE)** \
 **written by Coline Serreau,** \
@@ -338,7 +338,6 @@ Both have no beginning and no end. Beginning and end are human creations out of 
 Pain is a feeling, feelings are the only things that are real, for sure. Surreal surrounding point of view in a picture that can be visualized, seen, sensed and felt. Feelings are the constant of human beings, the connection in the solvation. 
 
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
-
 
 \-﻿----------------------------------------------------------------------------
 
