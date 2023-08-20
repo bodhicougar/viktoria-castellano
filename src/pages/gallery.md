@@ -1,7 +1,7 @@
 ---
 title: Photo Gallery
 subtitle: ""
-img_path: /images/psx_20221022_035830-2-1-.jpg
+img_path: /images/img_e9402.jpg
 seo:
   title: "Viktoria Castellano - Actress: Gallery"
   description: >-
