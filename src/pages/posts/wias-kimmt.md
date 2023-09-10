@@ -1,11 +1,11 @@
 ---
-title: '"Ein Narrentanz" - Tiroler Volksschauspiele '
-subtitle: "Telfs, Tirol 2023 "
-date: 2023-05-29T22:00:00.000Z
+title: "Reloaded 2 "
+subtitle: "Coming out in 2024 "
+date: 2023-09-09T22:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
-excerpt: "Telfs, Tirol 2023 - written and directed by Thomas Gassner "
+excerpt: Written and directed by George Tounas
 seo:
   type: stackbit_page_meta
   title: ""
@@ -35,10 +35,8 @@ seo:
       relativeUrl: true
 template: post
 ---
-Viktoria will be starring as a persecuted, jewish girl. 
-
-I﻿nfo & Ticktes available here: 
+Viktoria will be starring as Olivia Jackson. 
 
 
 
-https://www.volksschauspiele.at/programm/ein-narrentanz/
+https://www.imdb.com/title/tt15352048/?ref_=nm_knf_t_1
