@@ -14,6 +14,27 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+**"Ein Narrentanz"**\
+**TIROLER VOLKSSCHAUSPIELE**\
+**w﻿ritten by Thomas Gassner** \
+**d﻿irected by Thomas Gassner**
+
+###### **August 2023**
+
+V﻿iktoria starred on stage as a persecuted, jewish girl
+
+*https://www.volksschauspiele.at/programm/ein-narrentanz/*
+
+*https://www.meinbezirk.at/telfs/c-lokales/ein-narrentanz-mit-den-sieben-kardinaltugenden-oder-der-anstand-ist-tot-in-dieser-welt_a6191906*
+
+*https://www.tiroltoday.at/beitrag/ein-narrentanz/*
+
+
+
+\-﻿-------------------------------------------------------------------------------------------------
+
+
+
 **"Ich fühls nicht"**\
 **TIROLER LANDESTHEATER** \
 **w﻿ritten by Liv Strömquist**\
