@@ -28,13 +28,13 @@
         "new_window": true
       },
       {
-        "url": "https://www.bogentheater.at/verein/team",
+        "url": "https://m.imdb.com/name/nm15221099/",
         "style": "icon",
         "new_window": true,
         "no_follow": false,
         "type": "action",
         "icon_class": "dev",
-        "label": "Team Bogentheater "
+        "label": "IMDb Viktoria Castellano"
       }
     ],
     "tagline": "Actress",
