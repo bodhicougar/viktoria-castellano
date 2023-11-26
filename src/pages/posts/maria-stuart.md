@@ -1,5 +1,5 @@
 ---
-title: "Performing Arts Degree in Vienna "
+title: Performing Arts Degree in Vienna 2020-2023
 subtitle: By the commission of performing Arts in Vienna
 date: 2023-05-28T22:00:00.000Z
 thumb_img_path: ""
@@ -41,7 +41,9 @@ template: post
 
 **P﻿erforming Arts Degree in Vienna - Paritätische Prüfungskommission für Bühnenangehörige Wien** 
 
-Viktoria will attend her 3rd and last exam by the Performing Arts commission in Vienna in autumn 2023. The roles she will present are: 
+**Viktoria, on the 16th November 2023, successfully passed third and last exam by the commission of performing arts in Vienna.** 
+
+ The roles she presented were: 
 
 1﻿. Antigone - Sophocles
 
@@ -54,8 +56,6 @@ Viktoria will attend her 3rd and last exam by the Performing Arts commission in 
 5﻿. Sonja in "Uncle Vanja" - Anton Chekhov 
 
 6﻿. Mariedl "Die Präsidentinnen" - Werner Schwab 
-
-
 
 **Viktoria, on the 29th of March 2022, successfully passed the second exam of three by the commission of performing arts in Vienna.**
 
