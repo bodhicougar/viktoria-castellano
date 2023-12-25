@@ -45,7 +45,7 @@ template: page
 ---
 Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an Italian-German actress.
 
-From a very young age, Viktoria had a strong compassion for art. Painting, drawing, acting, writing and music have always been a part of her everyday life. She attended the European school in Italy and consequently speaks five languages. She has always been fond of sports and practices horse riding, skiing, surfing and ice skating.
+From a very young age, Viktoria had a strong compassion for art. Painting, drawing, acting, writing and music have always been a part of her everyday life. She attended the European school in Italy and consequently speaks five languages. She has always been fond of sports and practices horse riding, skiing, surfing and ballett.
 
 As a teenager she moved to Austria and began an apprenticeship as a hotel and catering assistant, which she completed in 2013. After that, she attended evening school from 2016 to 2020 and passed her A-levels there.
 
@@ -53,4 +53,4 @@ In the meantime, aged 22, she resumed work at the theatre. As a result, she acte
 
 One year later, she got her first leading part in a one-act play and in 2019, she starred as Queen Mary Stuart in a modern adaption of the drama for “Projekttheater Hall” in Tyrol.
 
-Since 2020, Viktoria has been working on an actress´s degree at the “Paritätische Kommission” in Vienna, which she is expected to get in 2023.
+F﻿rom 2020 to 2023, she worked to get her acting degree at the Paritätische Kommission in Vienna, by taking lessons with Mrs. Janine Wegener at the Tyorlean State Theatre. She passed successfully.
