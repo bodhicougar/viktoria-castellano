@@ -1,5 +1,5 @@
 ---
-title: '"Die Fremde" - Tiroler Landestheater '
+title: "Dramaturgy Assistant - Tiroler Landestheater Innsbruck "
 subtitle: ""
 date: 2023-10-16T22:00:00.000Z
 thumb_img_path: ""
@@ -35,4 +35,6 @@ seo:
       relativeUrl: true
 template: post
 ---
-https://www.landestheater.at/produktion/die-fremde/
+Viktoria is currently working as an assistant of dramaturgy a the Tyrolean State Theatre. 
+
+https://www.landestheater.at/ueber-uns/menschen/?detail=635476&fbclid=IwAR3O8WvJqxmML41lWCEX6OjTWQAxJU2CBLeZ2Rlhb43A35fftp0io6N8G3o
