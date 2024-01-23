@@ -58,6 +58,15 @@
         "style": "link"
       },
       {
+        "url": "/dramaturgy",
+        "style": "link",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action",
+        "label": "Dramaturgy",
+        "icon_class": "dev"
+      },
+      {
         "label": "Theatre Roles",
         "url": "/theatre-roles-filmography",
         "style": "link",
@@ -114,7 +123,7 @@
   },
   "footer": {
     "type": "footer",
-    "content": "© Anna-Viktoria Castellano 2023. All rights reserved. Created & maintained by BlackBoxMediaDesign."
+    "content": "© Anna-Viktoria Castellano 2024. All rights reserved. Created & maintained by BlackBoxMediaDesign."
   },
   "domain": "https://www.viktoriacastellano.art/",
   "favicon": "/images/Krönchen.png"
