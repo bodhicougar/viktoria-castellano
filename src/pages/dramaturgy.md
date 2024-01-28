@@ -1,6 +1,6 @@
 ---
 title: Dramaturgy
-img_path: /images/IMG_8354.png
+img_path: /images/sfdg3686.jpg
 seo:
   title: "Viktoria Castellano - Actress: Dramaturgy"
   description: Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
