@@ -1,7 +1,7 @@
 ---
 title: "Dramaturgy Assistant - Tiroler Landestheater Innsbruck "
 subtitle: ""
-date: 2023-10-16T22:00:00.000Z
+date: 2023-12-31T23:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
