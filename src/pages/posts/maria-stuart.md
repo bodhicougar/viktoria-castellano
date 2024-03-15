@@ -1,8 +1,8 @@
 ---
 title: Performing Arts Degree in Vienna 2020-2023
 subtitle: By the commission of performing Arts in Vienna
-date: 2023-05-28T22:00:00.000Z
-thumb_img_path: ""
+date: 2023-11-15T23:00:00.000Z
+thumb_img_path: /images/diploma-viktoria-castellano_page-0001.jpg
 thumb_img_alt: Viktoria in action
 content_img_path: ""
 excerpt: ""
